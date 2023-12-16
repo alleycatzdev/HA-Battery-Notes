@@ -47,6 +47,10 @@
             "battery_type": "CR2450"
         },
         {
+            "manufacturer": "eWeLink",
+            "model": "SNZB-02P",
+            "battery_type": "CR2477"
+        },        {
             "manufacturer": "Fantem",
             "model": "4 in 1 multi sensor (ZB003-X)",
             "battery_type": "CR123A",
@@ -149,6 +153,11 @@
             "manufacturer": "LUMI",
             "model": "lumi.weather",
             "battery_type": "CR2032"
+        },
+        {
+            "manufacturer": "LUMI",
+            "model": "lumi.sensor_magnet.aq2",
+            "battery_type": "CR1632"
         },
         {
             "manufacturer": "ORVIBO",
